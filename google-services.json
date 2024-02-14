@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "10328542517",
+    "firebase_url": "https://iotgreen-d0bab-default-rtdb.firebaseio.com",
+    "project_id": "iotgreen-d0bab",
+    "storage_bucket": "iotgreen-d0bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10328542517:android:92df3def78c73d4ec9507c",
+        "android_client_info": {
+          "package_name": "com.example.greenhouse_app2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3xaIC9ReQ2T0JTJbh9MFXY-qszvrRoug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
